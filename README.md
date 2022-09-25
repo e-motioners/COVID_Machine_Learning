@@ -9,7 +9,7 @@ Indian Institute of Science Education and Research (Kolkata)
 
 ## Dataset
 
-The dataset for the experiment are stored in theri respective Variants folder (Beta, Gamma, Delta, Kappa)
+The dataset for the experiment are stored in their respective Variants folder (Beta, Gamma, Delta, Kappa)
 Each folder consists of respective fasta files according to month-wise manner and the respective multiple sequence aligned files generated using MAFFT and ClustalW server.
 
 ## Scripts
